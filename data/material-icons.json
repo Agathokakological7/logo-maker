@@ -182,5 +182,716 @@
     "id": "Surfing",
     "name": "Surfing",
     "tags": ["surfing", "summer", "beach"]
-  }
+  },
+  {
+    "id": "Shield",
+    "name": "Shield",
+    "tags": ["shield", "protect", "defence"]
+  },
+  
+  {
+    "id": "Shortcut",
+    "name": "Shortcut",
+    "tags": ["Shortcut"]
+  },
+  {
+    "id": "ShopTwo",
+    "name": "ShopTwo",
+    "tags": ["ShopTwo", "shop", "two"]
+  },
+  {
+    "id": "SetMeal",
+    "name": "SetMeal",
+    "tags": ["SetMeal", "meal"]
+  },
+  {
+    "id": "SignalWifi0Bar",
+    "name": "SignalWifi0Bar",
+    "tags": ["SignalWifi0Bar", "signal","wifi"]
+  },
+  {
+    "id": "SpaceDashboard",
+    "name": "SpaceDashboard",
+    "tags": ["SpaceDashboard", "Dashboard", "space"]
+  },
+  {
+    "id": "TempleHindu",
+    "name": "TempleHindu",
+    "tags": ["TempleHindu", "temple", "hindu"]
+  },
+  {
+    "id": "TempleBuddhist",
+    "name": "TempleBuddhist",
+    "tags": ["TempleBuddhist", "Temple", "Buddhist"]
+  },
+  {
+    "id": "Visibility",
+    "name": "Visibility",
+    "tags": ["Visibility", "eye","illuminati"]
+  },
+  {
+    "id": "Chalet",
+    "name": "Chalet",
+    "tags": ["Chalet", "house","home"]
+  },
+  {
+    "id": "Computer",
+    "name": "Computer",
+    "tags": ["Computer"]
+  },
+  {
+    "id": "CloudCircle",
+    "name": "CloudCircle",
+    "tags": ["CloudCircle", "Cloud"]
+  },
+    {
+      "id": "BookmarkAdded",
+      "name": "BookmarkAdded",
+      "tags": ["BookmarkAdded", "bookmark", "added"]
+    },
+    {
+      "id": "BookmarkBorder",
+      "name": "BookmarkBorder",
+      "tags": ["BookmarkBorder", "bookmark", "border"]
+    },
+    {
+      "id": "BookmarkRemove",
+      "name": "BookmarkRemove",
+      "tags": ["BookmarkRemove", "bookmark", "remove"]
+    },
+    {
+      "id": "Bookmarks",
+      "name": "Bookmarks",
+      "tags": ["Bookmarks", "bookmarks"]
+    },
+   
+    {
+      "id": "Boy",
+      "name": "Boy",
+      "tags": ["Boy", "person", "male"]
+    },
+    {
+      "id": "BrandingWatermark",
+      "name": "BrandingWatermark",
+      "tags": ["BrandingWatermark", "branding", "watermark"]
+    },
+    {
+      "id": "BreakfastDining",
+      "name": "BreakfastDining",
+      "tags": ["BreakfastDining", "breakfast", "dining"]
+    },
+    
+      {
+        "id": "EditNotifications",
+        "name": "EditNotifications",
+        "tags": ["EditNotifications", "edit", "notifications"]
+      },
+      {
+        "id": "EditOff",
+        "name": "EditOff",
+        "tags": ["EditOff", "edit", "off"]
+      },
+      {
+        "id": "EditRoad",
+        "name": "EditRoad",
+        "tags": ["EditRoad", "edit", "road"]
+      },
+      {
+        "id": "Egg",
+        "name": "Egg",
+        "tags": ["Egg", "egg"]
+      },
+      {
+        "id": "EggAlt",
+        "name": "EggAlt",
+        "tags": ["EggAlt", "egg", "alternative"]
+      },
+      {
+        "id": "Eject",
+        "name": "Eject",
+        "tags": ["Eject", "eject"]
+      },
+      {
+        "id": "Elderly",
+        "name": "Elderly",
+        "tags": ["Elderly", "person", "elderly"]
+      },
+      {
+        "id": "ElderlyWoman",
+        "name": "ElderlyWoman",
+        "tags": ["ElderlyWoman", "person", "elderly", "woman"]
+      },
+      {
+        "id": "ElectricBike",
+        "name": "ElectricBike",
+        "tags": ["ElectricBike", "electric", "bike"]
+      },
+      {
+        "id": "ElectricBolt",
+        "name": "ElectricBolt",
+        "tags": ["ElectricBolt", "electric", "bolt"]
+      },
+      {
+        "id": "ElectricCar",
+        "name": "ElectricCar",
+        "tags": ["ElectricCar", "electric", "car"]
+      },
+      {
+        "id": "ElectricMeter",
+        "name": "ElectricMeter",
+        "tags": ["ElectricMeter", "electric", "meter"]
+      },
+      {
+        "id": "ElectricMoped",
+        "name": "ElectricMoped",
+        "tags": ["ElectricMoped", "electric", "moped"]
+      },
+      {
+        "id": "ElectricRickshaw",
+        "name": "ElectricRickshaw",
+        "tags": ["ElectricRickshaw", "electric", "rickshaw"]
+      },
+      {
+        "id": "ElectricScooter",
+        "name": "ElectricScooter",
+        "tags": ["ElectricScooter", "electric", "scooter"]
+      },
+      {
+        "id": "ElectricalServices",
+        "name": "ElectricalServices",
+        "tags": ["ElectricalServices", "electrical", "services"]
+      },
+      {
+        "id": "Elevator",
+        "name": "Elevator",
+        "tags": ["Elevator", "elevator"]
+      },
+      {
+        "id": "Email",
+        "name": "Email",
+        "tags": ["Email", "email"]
+      },
+      {
+        "id": "Emergency",
+        "name": "Emergency",
+        "tags": ["Emergency", "emergency"]
+      },
+      {
+        "id": "EmergencyRecording",
+        "name": "EmergencyRecording",
+        "tags": ["EmergencyRecording", "emergency", "recording"]
+      },
+      {
+        "id": "EmergencyShare",
+        "name": "EmergencyShare",
+        "tags": ["EmergencyShare", "emergency", "share"]
+      },
+      {
+        "id": "EmojiEmotions",
+        "name": "EmojiEmotions",
+        "tags": ["EmojiEmotions", "emoji", "emotions"]
+      },
+      {
+        "id": "EmojiEvents",
+        "name": "EmojiEvents",
+        "tags": ["EmojiEvents", "emoji", "events"]
+      },
+      {
+        "id": "EmojiFoodBeverage",
+        "name": "EmojiFoodBeverage",
+        "tags": ["EmojiFoodBeverage", "emoji", "food", "beverage"]
+      },
+      {
+        "id": "EmojiNature",
+        "name": "EmojiNature",
+        "tags": ["EmojiNature", "emoji", "nature"]
+      },
+      {
+        "id": "EmojiObjects",
+        "name": "EmojiObjects",
+        "tags": ["EmojiObjects", "emoji", "objects"]
+      },
+      {
+        "id": "EmojiPeople",
+        "name": "EmojiPeople",
+        "tags": ["EmojiPeople", "emoji", "people"]
+      },
+      {
+        "id": "EmojiSymbols",
+        "name": "EmojiSymbols",
+        "tags": ["EmojiSymbols", "emoji", "symbols"]
+      },
+      {
+        "id": "EmojiTransportation",
+        "name": "EmojiTransportation",
+        "tags": ["EmojiTransportation", "emoji", "transportation"]
+      },
+      {
+        "id": "EnergySavingsLeaf",
+        "name": "EnergySavingsLeaf",
+        "tags": ["EnergySavingsLeaf", "energy", "savings", "leaf"]
+      },
+      {
+        "id": "Engineering",
+        "name": "Engineering",
+        "tags": ["Engineering", "engineering"]
+      },
+        {
+          "id": "Headset",
+          "name": "Headset",
+          "tags": ["Headset", "headset"]
+        },
+        {
+          "id": "HeadsetMic",
+          "name": "HeadsetMic",
+          "tags": ["HeadsetMic", "headset", "mic"]
+        },
+        {
+          "id": "HeadsetOff",
+          "name": "HeadsetOff",
+          "tags": ["HeadsetOff", "headset", "off"]
+        },
+        {
+          "id": "Healing",
+          "name": "Healing",
+          "tags": ["Healing", "healing"]
+        },
+        {
+          "id": "HealthAndSafety",
+          "name": "HealthAndSafety",
+          "tags": ["HealthAndSafety", "health", "safety"]
+        },
+        {
+          "id": "Hearing",
+          "name": "Hearing",
+          "tags": ["Hearing", "hearing"]
+        },
+        {
+          "id": "HearingDisabled",
+          "name": "HearingDisabled",
+          "tags": ["HearingDisabled", "hearing", "disabled"]
+        },
+       
+        {
+          "id": "HeatPump",
+          "name": "HeatPump",
+          "tags": ["HeatPump", "heat", "pump"]
+        },
+        {
+          "id": "Height",
+          "name": "Height",
+          "tags": ["Height", "height"]
+        },
+        {
+          "id": "Help",
+          "name": "Help",
+          "tags": ["Help", "help"]
+        },
+        {
+          "id": "HelpCenter",
+          "name": "HelpCenter",
+          "tags": ["HelpCenter", "help", "center"]
+        },
+        {
+          "id": "HelpOutline",
+          "name": "HelpOutline",
+          "tags": ["HelpOutline", "help", "outline"]
+        },
+        {
+          "id": "Hevc",
+          "name": "Hevc",
+          "tags": ["Hevc", "hevc"]
+        },
+        {
+          "id": "Hexagon",
+          "name": "Hexagon",
+          "tags": ["Hexagon", "hexagon"]
+        },
+        {
+          "id": "HideImage",
+          "name": "HideImage",
+          "tags": ["HideImage", "hide", "image"]
+        },
+        {
+          "id": "HideSource",
+          "name": "HideSource",
+          "tags": ["HideSource", "hide", "source"]
+        },
+        {
+          "id": "HighQuality",
+          "name": "HighQuality",
+          "tags": ["HighQuality", "high", "quality"]
+        },
+        {
+          "id": "Highlight",
+          "name": "Highlight",
+          "tags": ["Highlight", "highlight"]
+        },
+        {
+          "id": "HighlightAlt",
+          "name": "HighlightAlt",
+          "tags": ["HighlightAlt", "highlight", "alt"]
+        },
+        {
+          "id": "HighlightOff",
+          "name": "HighlightOff",
+          "tags": ["HighlightOff", "highlight", "off"]
+        },
+        {
+          "id": "Hiking",
+          "name": "Hiking",
+          "tags": ["Hiking", "hiking"]
+        },
+        {
+          "id": "History",
+          "name": "History",
+          "tags": ["History", "history"]
+        },
+        {
+          "id": "HistoryEdu",
+          "name": "HistoryEdu",
+          "tags": ["HistoryEdu", "history", "edu"]
+        },
+        {
+          "id": "HistoryToggleOff",
+          "name": "HistoryToggleOff",
+          "tags": ["HistoryToggleOff", "history", "toggle", "off"]
+        },
+        {
+          "id": "Hive",
+          "name": "Hive",
+          "tags": ["Hive", "hive"]
+        },
+       
+        {
+          "id": "HolidayVillage",
+          "name": "HolidayVillage",
+          "tags": ["HolidayVillage", "holiday", "village"]
+        },
+        {
+          "id": "Home",
+          "name": "Home",
+          "tags": ["Home", "home"]
+        },
+        {
+          "id": "HomeMax",
+          "name": "HomeMax",
+          "tags": ["HomeMax", "home", "max"]
+        },
+        {
+          "id": "HomeMini",
+          "name": "HomeMini",
+          "tags": ["HomeMini", "home", "mini"]
+        },
+        {
+          "id": "HomeRepairService",
+          "name": "HomeRepairService",
+          "tags": ["HomeRepairService", "home", "repair", "service"]
+        },
+        {
+          "id": "HomeWork",
+          "name": "HomeWork",
+          "tags": ["HomeWork", "home", "work"]
+        },
+        {
+          "id": "HorizontalDistribute",
+          "name": "HorizontalDistribute",
+          "tags": ["HorizontalDistribute", "horizontal", "distribute"]
+        },
+        {
+          "id": "HorizontalRule",
+          "name": "HorizontalRule",
+          "tags": ["HorizontalRule", "horizontal", "rule"]
+        },
+        {
+          "id": "HorizontalSplit",
+          "name": "HorizontalSplit",
+          "tags": ["HorizontalSplit", "horizontal", "split"]
+        },
+        {
+          "id": "HotTub",
+          "name": "HotTub",
+          "tags": ["HotTub", "hot", "tub"]
+        },
+        {
+          "id": "Hotel",
+          "name": "Hotel",
+          "tags": ["Hotel", "hotel"]
+        },
+        {
+          "id": "HotelClass",
+          "name": "HotelClass",
+          "tags": ["HotelClass", "hotel", "class"]
+        },
+        {
+          "id": "HourglassBottom",
+          "name": "HourglassBottom",
+          "tags": ["HourglassBottom", "hourglass", "bottom"]
+                  },
+                  
+  {
+    "id": "InstallDesktop",
+    "name": "InstallDesktop",
+    "tags": ["InstallDesktop", "install", "desktop"]
+  },
+  {
+    "id": "InstallMobile",
+    "name": "InstallMobile",
+    "tags": ["InstallMobile", "install", "mobile"]
+  },
+  {
+    "id": "IntegrationInstructions",
+    "name": "IntegrationInstructions",
+    "tags": ["IntegrationInstructions", "integration", "instructions"]
+  },
+  {
+    "id": "Interests",
+    "name": "Interests",
+    "tags": ["Interests", "interests"]
+  },
+  {
+    "id": "InterpreterMode",
+    "name": "InterpreterMode",
+    "tags": ["InterpreterMode", "interpreter", "mode"]
+  },
+  {
+    "id": "Inventory",
+    "name": "Inventory",
+    "tags": ["Inventory", "inventory"]
+  },
+  {
+    "id": "Inventory2",
+    "name": "Inventory2",
+    "tags": ["Inventory2", "inventory", "2"]
+  },
+  {
+    "id": "InvertColors",
+    "name": "InvertColors",
+    "tags": ["InvertColors", "invert", "colors"]
+  },
+  {
+    "id": "InvertColorsOff",
+    "name": "InvertColorsOff",
+    "tags": ["InvertColorsOff", "invert", "colors", "off"]
+  },
+  {
+    "id": "IosShare",
+    "name": "IosShare",
+    "tags": ["IosShare", "ios", "share"]
+  },
+  {
+    "id": "Iron",
+    "name": "Iron",
+    "tags": ["Iron", "iron"]
+  },
+  {
+    "id": "Iso",
+    "name": "Iso",
+    "tags": ["Iso", "iso"]
+  },
+  {
+    "id": "Javascript",
+    "name": "Javascript",
+    "tags": ["Javascript", "javascript"]
+  },
+  {
+    "id": "JoinFull",
+    "name": "JoinFull",
+    "tags": ["JoinFull", "join", "full"]
+  },
+  {
+    "id": "JoinInner",
+    "name": "JoinInner",
+    "tags": ["JoinInner", "join", "inner"]
+  },
+  {
+    "id": "JoinLeft",
+    "name": "JoinLeft",
+    "tags": ["JoinLeft", "join", "left"]
+  },
+  {
+    "id": "JoinRight",
+    "name": "JoinRight",
+    "tags": ["JoinRight", "join", "right"]
+  },
+  {
+    "id": "Kayaking",
+    "name": "Kayaking",
+    "tags": ["Kayaking", "kayaking"]
+  },
+  {
+    "id": "KebabDining",
+    "name": "KebabDining",
+    "tags": ["KebabDining", "kebab", "dining"]
+  },
+  {
+    "id": "Key",
+    "name": "Key",
+    "tags": ["Key", "key"]
+  },
+  {
+    "id": "KeyOff",
+    "name": "KeyOff",
+    "tags": ["KeyOff", "key", "off"]
+  },
+  {
+    "id": "Keyboard",
+    "name": "Keyboard",
+    "tags": ["Keyboard", "keyboard"]
+  },
+  
+
+  
+  {
+    "id": "KeyboardArrowRight",
+    "name": "KeyboardArrowRight",
+    "tags": ["KeyboardArrowRight", "keyboard", "arrow", "right"]
+  },
+  
+  {
+    "id": "KeyboardCommandKey",
+    "name": "KeyboardCommandKey",
+    "tags": ["KeyboardCommandKey", "keyboard", "command", "key"]
+  },
+  
+  
+
+  {
+    "id": "KeyboardVoice",
+    "name": "KeyboardVoice",
+    "tags": ["KeyboardVoice", "keyboard", "voice"]
+  },
+  {
+    "id": "KingBed",
+    "name": "KingBed",
+    "tags": ["KingBed", "king", "bed"]
+  },
+  {
+    "id": "Kitchen",
+    "name": "Kitchen",
+    "tags": ["Kitchen", "kitchen"]
+  },
+    { "id": "Signpost", "name": "Signpost", "tags": ["Signpost"] },
+    { "id": "SimCard", "name": "SimCard", "tags": ["SimCard"] },
+    { "id": "SimCardAlert", "name": "SimCardAlert", "tags": ["SimCardAlert"] },
+    { "id": "SimCardDownload", "name": "SimCardDownload", "tags": ["SimCardDownload"] },
+    { "id": "SingleBed", "name": "SingleBed", "tags": ["SingleBed"] },
+    { "id": "Sip", "name": "Sip", "tags": ["Sip"] },
+    { "id": "Skateboarding", "name": "Skateboarding", "tags": ["Skateboarding"] },
+    { "id": "SkipNext", "name": "SkipNext", "tags": ["SkipNext"] },
+    { "id": "SkipPrevious", "name": "SkipPrevious", "tags": ["SkipPrevious"] },
+    { "id": "Sledding", "name": "Sledding", "tags": ["Sledding"] },
+    { "id": "Slideshow", "name": "Slideshow", "tags": ["Slideshow"] },
+    { "id": "SlowMotionVideo", "name": "SlowMotionVideo", "tags": ["SlowMotionVideo"] },
+    { "id": "SmartButton", "name": "SmartButton", "tags": ["SmartButton"] },
+    { "id": "SmartDisplay", "name": "SmartDisplay", "tags": ["SmartDisplay"] },
+    { "id": "SmartScreen", "name": "SmartScreen", "tags": ["SmartScreen"] },
+    { "id": "SmartToy", "name": "SmartToy", "tags": ["SmartToy"] },
+    { "id": "Smartphone", "name": "Smartphone", "tags": ["Smartphone"] },
+    { "id": "SmokeFree", "name": "SmokeFree", "tags": ["SmokeFree"] },
+    { "id": "SmokingRooms", "name": "SmokingRooms", "tags": ["SmokingRooms"] },
+    { "id": "Sms", "name": "Sms", "tags": ["Sms"] },
+    { "id": "SmsFailed", "name": "SmsFailed", "tags": ["SmsFailed"] },
+    { "id": "SnippetFolder", "name": "SnippetFolder", "tags": ["SnippetFolder"] },
+    { "id": "Snooze", "name": "Snooze", "tags": ["Snooze"] },
+    { "id": "Snowboarding", "name": "Snowboarding", "tags": ["Snowboarding"] },
+    { "id": "Snowmobile", "name": "Snowmobile", "tags": ["Snowmobile"] },
+    { "id": "Snowshoeing", "name": "Snowshoeing", "tags": ["Snowshoeing"] },
+    { "id": "Soap", "name": "Soap", "tags": ["Soap"] },
+    { "id": "SocialDistance", "name": "SocialDistance", "tags": ["SocialDistance"] },
+    { "id": "SolarPower", "name": "SolarPower", "tags": ["SolarPower"] },
+    { "id": "Sort", "name": "Sort", "tags": ["Sort"] },
+    { "id": "SortByAlpha", "name": "SortByAlpha", "tags": ["SortByAlpha"] },
+    { "id": "Sos", "name": "Sos", "tags": ["Sos"] },
+    { "id": "SoupKitchen", "name": "SoupKitchen", "tags": ["SoupKitchen"] },
+    { "id": "Source", "name": "Source", "tags": ["Source"] },
+    { "id": "South", "name": "South", "tags": ["South"] },
+    { "id": "SouthAmerica", "name": "SouthAmerica", "tags": ["SouthAmerica"] },
+    { "id": "SouthEast", "name": "SouthEast", "tags": ["SouthEast"] },
+    { "id": "SouthWest", "name": "SouthWest", "tags": ["SouthWest"] },
+    { "id": "Spa", "name": "Spa", "tags": ["Spa"] },
+    { "id": "SpaceBar", "name": "SpaceBar", "tags": ["SpaceBar"] },
+    { "id": "SpaceDashboard", "name": "SpaceDashboard", "tags": ["SpaceDashboard"] },
+    { "id": "SpatialAudio", "name": "SpatialAudio", "tags": ["SpatialAudio"] },
+    { "id": "SpatialAudioOff", "name": "SpatialAudioOff", "tags": ["SpatialAudioOff"] },
+    { "id": "SpatialTracking", "name": "SpatialTracking", "tags": ["SpatialTracking"] },
+    { "id": "Speaker", "name": "Speaker", "tags": ["Speaker"] },
+    { "id": "SpeakerGroup", "name": "SpeakerGroup", "tags": ["SpeakerGroup"] },
+    { "id": "SpeakerNotes", "name": "SpeakerNotes", "tags": ["SpeakerNotes"] },
+    { "id": "SpeakerNotesOff", "name": "SpeakerNotesOff", "tags": ["SpeakerNotesOff"] },
+    { "id": "SpeakerPhone", "name": "SpeakerPhone", "tags": ["SpeakerPhone"] },
+    { "id": "Speed", "name": "Speed", "tags": ["Speed"] },
+    { "id": "Spellcheck", "name": "Spellcheck", "tags": ["Spellcheck"] },
+    { "id": "Splitscreen", "name": "Splitscreen", "tags": ["Splitscreen"] },
+    { "id": "Spoke", "name": "Spoke", "tags": ["Spoke"] },
+    { "id": "Sports", "name": "Sports", "tags": ["Sports"] },
+    { "id": "SportsBar", "name": "SportsBar", "tags": ["SportsBar"] },
+    { "id": "SportsBaseball", "name": "SportsBaseball", "tags": ["SportsBaseball"] },
+    { "id": "SportsBasketball", "name": "SportsBasketball", "tags": ["SportsBasketball"] },
+    { "id": "SportsCricket", "name": "SportsCricket", "tags": ["SportsCricket"] },
+    { "id": "SportsEsports", "name": "SportsEsports", "tags": ["SportsEsports"] },
+    { "id": "SportsFootball", "name": "SportsFootball", "tags": ["SportsFootball"] },
+    { "id": "SportsGolf", "name": "SportsGolf", "tags": ["SportsGolf"] },
+    { "id": "SportsGymnastics", "name": "SportsGymnastics", "tags": ["SportsGymnastics"] },
+    { "id": "SportsHandball", "name": "SportsHandball", "tags": ["SportsHandball"] },
+    { "id": "SportsHockey", "name": "SportsHockey", "tags": ["SportsHockey"] },
+    { "id": "SportsKabaddi", "name": "SportsKabaddi", "tags": ["SportsKabaddi"] },
+    { "id": "SportsMartialArts", "name": "SportsMartialArts", "tags": ["SportsMartialArts"] },
+    { "id": "SportsMma", "name": "SportsMma", "tags": ["SportsMma"] },
+    { "id": "SportsMotorsports", "name": "SportsMotorsports", "tags": ["SportsMotorsports"] },
+    { "id": "SportsRugby", "name": "SportsRugby", "tags": ["SportsRugby"] },
+    { "id": "SportsScore", "name": "SportsScore", "tags": ["SportsScore"] },
+    { "id": "SportsSoccer", "name": "SportsSoccer", "tags": ["SportsSoccer"] },
+    { "id": "SportsTennis", "name": "SportsTennis", "tags": ["SportsTennis"] },
+    { "id": "SportsVolleyball", "name": "SportsVolleyball", "tags": ["SportsVolleyball"] },
+    { "id": "Square", "name": "Square", "tags": ["Square"] },
+    { "id": "SquareFoot", "name": "SquareFoot", "tags": ["SquareFoot"] },
+    { "id": "SsidChart", "name": "SsidChart", "tags": ["SsidChart"] },
+    { "id": "StackedBarChart", "name": "StackedBarChart", "tags": ["StackedBarChart"] },
+    { "id": "StackedLineChart", "name": "StackedLineChart", "tags": ["StackedLineChart"] },
+    { "id": "Stadium", "name": "Stadium", "tags": ["Stadium"] },
+    { "id": "Stairs", "name": "Stairs", "tags": ["Stairs"] },
+    { "id": "Star", "name": "Star", "tags": ["Star"] },
+    { "id": "StarBorder", "name": "StarBorder", "tags": ["StarBorder"] },
+    { "id": "StarBorderPurple500", "name": "StarBorderPurple500", "tags": ["StarBorderPurple500"] },
+    { "id": "StarHalf", "name": "StarHalf", "tags": ["StarHalf"] },
+    { "id": "StarOutline", "name": "StarOutline", "tags": ["StarOutline"] },
+    { "id": "StarPurple500", "name": "StarPurple500", "tags": ["StarPurple500"] },
+    { "id": "StarRate", "name": "StarRate", "tags": ["StarRate"] },
+    { "id": "Stars", "name": "Stars", "tags": ["Stars"] },
+    { "id": "Start", "name": "Start", "tags": ["Start"] },
+    { "id": "KeyboardArrowUp", "name": "KeyboardArrowUp", "tags": ["KeyboardArrowUp"] },
+    { "id": "StayCurrentPortrait", "name": "StayCurrentPortrait", "tags": ["StayCurrentPortrait"] },
+      { "id": "GMobiledata", "name": "GMobiledata", "tags": ["GMobiledata"] },
+      { "id": "GTranslate", "name": "GTranslate", "tags": ["GTranslate"] },
+      { "id": "Gamepad", "name": "Gamepad", "tags": ["Gamepad"] },
+      { "id": "Games", "name": "Games", "tags": ["Games"] },
+      { "id": "Garage", "name": "Garage", "tags": ["Garage"] },
+      { "id": "GasMeter", "name": "GasMeter", "tags": ["GasMeter"] },
+      { "id": "Gavel", "name": "Gavel", "tags": ["Gavel"] },
+      { "id": "GeneratingTokens", "name": "GeneratingTokens", "tags": ["GeneratingTokens"] },
+      { "id": "Gesture", "name": "Gesture", "tags": ["Gesture"] },
+      { "id": "GetApp", "name": "GetApp", "tags": ["GetApp"] },
+      { "id": "Gif", "name": "Gif", "tags": ["Gif"] },
+      { "id": "GifBox", "name": "GifBox", "tags": ["GifBox"] },
+      { "id": "Girl", "name": "Girl", "tags": ["Girl"] },
+      { "id": "Gite", "name": "Gite", "tags": ["Gite"] },
+      { "id": "GolfCourse", "name": "GolfCourse", "tags": ["GolfCourse"] },
+      { "id": "GppBad", "name": "GppBad", "tags": ["GppBad"] },
+      { "id": "GppGood", "name": "GppGood", "tags": ["GppGood"] },
+      { "id": "GppMaybe", "name": "GppMaybe", "tags": ["GppMaybe"] },
+      { "id": "GpsFixed", "name": "GpsFixed", "tags": ["GpsFixed"] },
+      { "id": "GpsNotFixed", "name": "GpsNotFixed", "tags": ["GpsNotFixed"] },
+      { "id": "GpsOff", "name": "GpsOff", "tags": ["GpsOff"] },
+     
+      { "id": "Gradient", "name": "Gradient", "tags": ["Gradient"] },
+      { "id": "Grading", "name": "Grading", "tags": ["Grading"] },
+      { "id": "Grain", "name": "Grain", "tags": ["Grain"] },
+      { "id": "GraphicEq", "name": "GraphicEq", "tags": ["GraphicEq"] },
+      { "id": "Grass", "name": "Grass", "tags": ["Grass"] },
+      { "id": "Grid3x3", "name": "Grid3x3", "tags": ["Grid3x3"] },
+      { "id": "Grid4x4", "name": "Grid4x4", "tags": ["Grid4x4"] },
+      { "id": "GridGoldenratio", "name": "GridGoldenratio", "tags": ["GridGoldenratio"] },
+      { "id": "TenK", "name": "TenK", "tags": ["TenK"] }
+
 ]
